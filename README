@@ -1,0 +1,8 @@
+--- Run Json Server
+cd .\dataserver\
+npx json-server -w ems.json -p 3333
+ 
+--- Run React App
+
+cd .\pracapp
+npm start
