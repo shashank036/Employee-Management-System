@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": "984a0e94-8cba-45f4-bd95-7c2355fc117e",
+      "firstname": "Shailja",
+      "lastname": "Naithani",
+      "password": "123456",
+      "email": "adminShailja@gmail.com",
+      "role": "admin",
+      "joiningDate": "2023-06-02",
+      "createAt": "6/17/2023",
+      "members": [
+        {
+          "firstname": "Shashank",
+          "lastname": "Naithani",
+          "age": 35,
+          "relation": "Brother"
+        }
+      ]
+    },
+    {
+      "id": "032d13d1-cd67-4e7b-bcbc-e0da77c3c203",
+      "firstname": "Vipul",
+      "lastname": "Rana",
+      "password": "123456",
+      "email": "editorVipul@gmail.com",
+      "role": "editor",
+      "joiningDate": "2023-06-02",
+      "createAt": "6/17/2023",
+      "members": [
+        {
+          "firstname": "",
+          "lastname": "",
+          "age": "",
+          "relation": ""
+        }
+      ]
+    },
+    {
+      "firstname": "suresh",
+      "lastname": "negi",
+      "password": "123456",
+      "email": "viewersuresh@gmail.com",
+      "role": "viewer",
+      "joiningDate": "2023-06-01",
+      "members": [
+        {
+          "firstname": "",
+          "lastname": "",
+          "age": "",
+          "relation": ""
+        }
+      ],
+      "id": "4898b5ff-5d94-4417-a704-04fb7593ecc5"
+    }
+  ]
+}
